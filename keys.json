@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hasina-and-friends-368904",
+  "private_key_id": "352b9d1c7b2315a47bab2de9270e6835cf0128f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3StnG7qOfsnP9\n1A8zQFj0wppOMYbtaBlXaIbZAPlKoJiou4m/KWMpu1M5b23dE6/l37VpPR8Mgi7A\nfXvlObalD5l+obvja3oX341E8LGv/rcQxu+hQqDIkzHE2XLGs5q51wRSTvObcxet\nVYT81IqqXclXVb53S0UflcLxy7kq1ig4l5v+tR0dfXX5bKJEiLVGpdaR+fanqxQJ\ngnJcOyB/KI3al1peRDmNhBl6jVfdS7Jb83Hj98ZqlQlHVj0oiabw2YpEKzRQi60W\nzK27dMcHsyjNaZVA+jJXk+eipyupNUjY8jo4NMVcxmSEV7R0PdZZxGsJE7/FM0j5\ncHz9cyLhAgMBAAECggEADtrmpoxNv5Ine3F13+n9q6yf8+lorZILx71FfI3rJmS4\nqqg0ZEVW75lqh9OjnFDNpzxHyCU3gHyGjHw/D9drGZqXjp9OCoL57LhmCynUxNZI\ngPgWkMPFIyxm0rTq6/a/egNWqtMSRE2CJD6znggdyuv59vWQj7uOeR5ao90mfzWj\n1fN3pY5vXSsPTtkchGFdFtvkkGoaJPwlQRUMj6PR7KUpJmwGW11ucZRmaw1XPfmm\nYEpdK38z4fHTO52irPXeoBF0jTHrWiMvCw0EtbJbcsuHQkvhCmqiWBhdVQ7NhHSi\nqKq2InIbhTm64tYd3q52tkBpjeTqaFCgHEBCHVSYoQKBgQDv+R2YpAYdgp27Tgut\nIq9hP7+h27B9EZDChkCEEkMBek8hoSxQVBFdKhlNlKUP8ULDoHGTQtEkT7gNdjSb\nPb4hqLiGVXc/ODpU2mldfAOaze/FJFWHLCc0cKOzPQ9r44mf7vdDbDZVEtnOmmDr\nbazDlwh8g5D+x6PEbpVdbflhKQKBgQDDiKZNPVPWS38klmSH2GC9cqUq10UiZKmY\n9EoqZ+34+AZUEs273n5xiM09VS61BoZG3TWyGhWHa64abNCln61kp7l1Ki4J9jE8\njzAdiKy2qkHCkcSukGryAqpxTEIx/MCxQvuf0TYuMbeQLNyaq2jVa1KCbJ5IuiGI\n+4YDaLDS+QKBgE8VjBlnxNQo3Y6C0/pE+gNUnPTcj7dH+KsCz3Q3CHoOMtHkadQ3\nQFmxrBETMaqlWdlaoNNlK8OJuiBFmmSm3mf9UIKE2/2rrB2WtS6n1hBIWgJgTQd1\nF56CmJBTSSfHHu3kNPy1RtqWkc0yt0ofJNZ4icVvHnO4m1H7F6JowcyxAoGAQKv1\ntR5PmFUoHEXRwkyC0qYUkvLYXuPEZF6IGTZ+sxX1oeEGQtj4IT0KBPsjk6QwzUdk\n9x9Bd6TZ1MugxublRqFi6amlyI2xA0Kou1v1JAVz8pKb5tDFTn4rOYXrbvUWFor9\nBoL/1I+FEx6DaHTBG7V/eLvMLmnBpbjrPj1mHqECgYEAyAt6Vru0soAZbDrw60r/\nw9vyunOPELM/5YnajwZ67LoNU9dbIvb2AAZDffL9yiJvzXzJ69OFeRJCmTLMp702\naBfsxipSdZDDj2/QttH8UU3Zl/sCS4bSYe6uwdUcSYwUU7uDvoCxEG3/oQsAPacI\n4IT9qDsIMxYt9+EoGK7YqLY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "poushy@hasina-and-friends-368904.iam.gserviceaccount.com",
+  "client_id": "108662992882076976283",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/poushy%40hasina-and-friends-368904.iam.gserviceaccount.com"
+}
